@@ -6,3 +6,4 @@
 REPORT ZEK_FOOTEST.
 
 write: 'This is a test'.
+write: |Test 2|.
